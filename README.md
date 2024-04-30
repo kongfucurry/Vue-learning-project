@@ -1,3 +1,12 @@
+# 一个用于学习vue以及练练手的项目
+
+## 主要目的
+
+- 掌握vue的基本语法，将vue水平提升到可以参与生产
+
+
+#########################
+
 # my-vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
